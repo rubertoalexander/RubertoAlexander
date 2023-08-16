@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RubertoAlexander, a software engineer from Melbourne, Australia
+- 👋 Hi
 
 <!---
 RubertoAlexander/RubertoAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
